@@ -1,0 +1,154 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Projects/FPGA/TMS320C1X
+vROM
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 CbV]>8m<@?G:D9cD9DiSS1
+IG8@`zgCFM2nIjWn3525m[1
+!s105 ROM_sv_unit
+S1
+R0
+w1675504991
+8D:/Projects/FPGA/TMS320C1X/ROM.sv
+FD:/Projects/FPGA/TMS320C1X/ROM.sv
+L0 1
+Z3 OL;L;10.6d;65
+!s108 1675505518.000000
+!s107 D:/Projects/FPGA/TMS320C1X/ROM.sv|
+!s90 -reportprogress|300|-work|work|D:/Projects/FPGA/TMS320C1X/ROM.sv|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+n@r@o@m
+vTMS320C1X
+R1
+DXx4 work 13 TMS320C1X_PKG 0 22 ak?Df?N1<NOjzWHD5Zkg@3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 FQ_fLgRKUcTR7cEDA7zkD0
+Iie2V2`cFiFQ:YnALngj3`1
+!s105 TMS320C1X_sv_unit
+S1
+R0
+w1675522849
+8D:/Projects/FPGA/TMS320C1X/TMS320C1X.sv
+FD:/Projects/FPGA/TMS320C1X/TMS320C1X.sv
+L0 1
+R3
+!s108 1675522898.000000
+!s107 D:/Projects/FPGA/TMS320C1X/TMS320C1X.sv|
+!s90 -reportprogress|300|-work|work|D:/Projects/FPGA/TMS320C1X/TMS320C1X.sv|
+!i113 0
+R4
+R5
+n@t@m@s320@c1@x
+XTMS320C1X_PKG
+R1
+Vak?Df?N1<NOjzWHD5Zkg@3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Ye6ePC`=XkOboF5K@hgUI2
+Iak?Df?N1<NOjzWHD5Zkg@3
+S1
+R0
+Z6 w1675522537
+8D:/Projects/FPGA/TMS320C1X/TMS320C1X_pkg.sv
+FD:/Projects/FPGA/TMS320C1X/TMS320C1X_pkg.sv
+L0 1
+R3
+!s108 1675522896.000000
+!s107 D:/Projects/FPGA/TMS320C1X/TMS320C1X_pkg.sv|
+!s90 -reportprogress|300|-work|work|D:/Projects/FPGA/TMS320C1X/TMS320C1X_pkg.sv|
+!i113 0
+R4
+R5
+n@t@m@s320@c1@x_@p@k@g
+vTMS320C1X_RAM
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 kiSJ<7M0=cG@K2@OCaz]z3
+IYSnDG;`3<2cTjj37@8VC<1
+Z7 !s105 TMS320C1X_memsv_sv_unit
+S1
+R0
+Z8 w1675512068
+Z9 8D:/Projects/FPGA/TMS320C1X/TMS320C1X_memsv.sv
+Z10 FD:/Projects/FPGA/TMS320C1X/TMS320C1X_memsv.sv
+L0 1
+R3
+Z11 !s108 1675512512.000000
+Z12 !s107 D:/Projects/FPGA/TMS320C1X/TMS320C1X_memsv.sv|
+Z13 !s90 -reportprogress|300|-work|work|D:/Projects/FPGA/TMS320C1X/TMS320C1X_memsv.sv|
+!i113 0
+R4
+R5
+n@t@m@s320@c1@x_@r@a@m
+vTMS320C1X_ROM
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 5Wj1RcQV2eY_OXmgUOiK92
+I`?8Sl1hIoV:4Zka1nVWHO0
+R7
+S1
+R0
+R8
+R9
+R10
+L0 71
+R3
+R11
+R12
+R13
+!i113 0
+R4
+R5
+n@t@m@s320@c1@x_@r@o@m
+vTMS320C1X_tb
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 2E9n:jCOTE^^L:l`VJ4>Q0
+IP`fm8?;8YokcSMGdCi2<21
+!s105 TMS320C1X_tb_sv_unit
+S1
+R0
+R6
+8D:/Projects/FPGA/TMS320C1X/TMS320C1X_tb.sv
+FD:/Projects/FPGA/TMS320C1X/TMS320C1X_tb.sv
+L0 1
+R3
+!s108 1675522916.000000
+!s107 D:/Projects/FPGA/TMS320C1X/TMS320C1X_tb.sv|
+!s90 -reportprogress|300|-work|work|D:/Projects/FPGA/TMS320C1X/TMS320C1X_tb.sv|
+!i113 0
+R4
+R5
+n@t@m@s320@c1@x_tb
