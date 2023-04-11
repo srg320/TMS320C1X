@@ -6,6 +6,7 @@ simulation
 hc_output
 scaler
 hps_isw_handoff
+work
 vip
 *_sim
 .qsys_edit
